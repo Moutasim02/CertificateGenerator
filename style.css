@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+
+img {
+    margin-bottom: 15px;
+}
+
+h1 {
+    color: rgb(106, 148, 233);
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 18px
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid grey;
+    margin-bottom: 20px;
+    text-align: center
+}
+
+button {
+    color: white;
+    font-weight: bold;
+    border-radius: 3px;
+    background-color: rgb(71, 122, 59);
+    
+}
